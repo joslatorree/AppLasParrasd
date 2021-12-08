@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838599780274",
+    "project_id": "applasparras",
+    "storage_bucket": "applasparras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838599780274:android:2a75d6c848c4282a6fa6ab",
+        "android_client_info": {
+          "package_name": "com.solmov.appmovillasparras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838599780274-5eirrck76q88do8thptjm657ae02fjq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ni1l2LV4_ij-8WLPPufjRp1X9WC36RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838599780274-5eirrck76q88do8thptjm657ae02fjq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AppMovilLasParras</string>
+
+
+    <string name="hint_username">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="button_send">Send</string>
+    <string name="text_forgot_password">¿Te olvidaste tu contraseña?</string>
+    <string name="text_signin_message">Hola, Ingresa con tu cuenta</string>
+    <string name="text_signin_social_media">Ingresa con cuentas de redes sociales</string>
+    <string name="text_signup_social_media">Ingresa con cuentas de redes sociales</string>
+    <string name="text_signin_signup">¿No tienes cuenta? <b>Registrate</b></string>
+    <string name="text_signup_terms">By signing up, you agree to our <b>terms and conditions</b></string>
+    <string name="text_signup_message">Hello, let\'s set up your account</string>
+
+    <string name="text_forgot_password_title">Forgot password? No worries</string>
+    <string name="text_forgot_password_message">We will send you a link to reset your password</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="ModuloMantenimiento">Mantenimiento</string>
+    <string name="ModuloAtencion">Atencion al Cliente</string>
+    <string name="Cuentas">Gestionar Usuarios</string>
+    <string name="Atencion">Gestionar Atencion</string>
+    <string name="SolicitarPedido">Solicitar Pedidos</string>
+    <string name="DetallePerfil">Detalle Perfil</string>
+    <string name="TransaccionesRecientes">Transacciones Recientes</string>
+    <string name="Transferencia">Transferencia</string>
+    <string name="Beneficiarios" />
+    <string name="Gestionar_Pedidos">Gestionar Pedidos</string>
+    <string name="VerificarPedidos">Verificar Pedidos</string>
+    <string name="GestionCobro">Gestion Cobro</string>
+    <string name="Contactanos">Informacion de Contacto:</string>
+    <string name="help_line_number">972808092</string>
+    <string name="contact_email">Contacto@gmail.com</string>
+    <string name="ReporteVentas">Reporte Ventas</string>
+    <string name="AgregarUsuario">Agregar Usuario</string>
+    <string name="AgregarProducto">Agregar Productos</string>
+    <string name="Regresar">Regresar</string>
+    <string name="RegresarAMenu">Regresar A Menu</string>
+    <string name="AgregarPedido">Agregar Pedido</string>
+</resources>
